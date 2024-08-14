@@ -3,7 +3,7 @@
 # **Introduction**</p>
 
 A 4-bit up-down counter is a key digital circuit used for counting, timing, and sequencing tasks. Made with four JK flip-flops, it can count in both ascending and descending order, representing values from 0 to 15 in binary. The counter’s operation is synchronized with a clock input, ensuring consistent updates with each pulse. The direction of counting—up or down—is controlled by a specific signal, making the counter highly adaptable. Additional features like enable signals, reset functions, and load capabilities add to its versatility in digital systems.</p>
-Digital counters have evolved alongside early computing technology, with the JK flip-flop playing a crucial role in counter design. Over time, counters became more advanced, adding the ability to count both up and down. The 4-bit up-down counter became a standard due to its flexibility and reliability, making it a fundamental component in various digital applications.
+Digital counters have evolved alongside early computing technology, with the JK flip-flop playing a crucial role in counter design. Over time, counters became more advanced, adding the ability to count both up and down. The 4-bit up-down counter became a standard due to its flexibility and reliability, making it a fundamental component in various digital applications.</p>
 
 # **Logic diagram**
 
@@ -15,6 +15,10 @@ In a 4-bit up/down counter using JK flip-flops, the flip-flops work together to 
 
 ![image](https://github.com/user-attachments/assets/951e31c7-7663-4740-8a08-f16862a5891f)
 
+<details>
+<summary><b>About Cadence:</p>
+</b></summary>
+Cadence is a leading electronic design automation (EDA) tool suite used for designing and verifying integrated circuits (ICs) and printed circuit boards (PCBs). It includes solutions like Virtuoso for analog design, Allegro for PCB design, Innovus for digital implementation, and Genus for logic synthesis. Cadence tools are widely utilized across industries such as semiconductor, automotive, and aerospace.
 
 # **Simulation**</p>
 
